@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=27&duration=3500&pause=1000&color=FF61D8&center=true&vCenter=true&width=1300&lines=Data+Science+Student+%40+ITC;Machine+Learning+%26+Data+Analysis;Turning+data+into+insights;Code.+Sleep.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=27&duration=3500&pause=1000&color=FF61D8&center=true&vCenter=true&width=1300&lines=Data+Science;Machine+Learning+%26+Data+Analysis;Turning+data+into+insights;Code.+Sleep.+Repeat.">
 </p>
 
 <p align="center">
@@ -77,7 +77,6 @@ continuous learning and professional growth.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
@@ -96,7 +95,6 @@ continuous learning and professional growth.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 <br>
