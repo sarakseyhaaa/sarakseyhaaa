@@ -57,9 +57,7 @@
   <hr>
   <br>
 
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-  </p>
+?
 
   <h2>About Me <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="40"></h2>
 
