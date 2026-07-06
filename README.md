@@ -85,7 +85,7 @@ continuous learning and professional growth.
 </h3>
 
 - Building full-stack web applications
-- Data mining & visualization projects
+- Data mining & visualization projects.
 
 <p>
 <img src="https://user-images.githubusercontent.com/74038190/216656956-c5f97119-4de0-4e55-8906-c2699cc43ccd.gif" width="45">
