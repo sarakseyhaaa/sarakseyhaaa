@@ -24,7 +24,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarakseyhaaa&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarakseyhaaa&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarakseyhaaa&theme=radical&utcOffset=8) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarakseyhaaa&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarakseyhaaa&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarakseyhaaa&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=sarakseyhaaa&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 </div>
